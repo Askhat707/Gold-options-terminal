@@ -4,7 +4,7 @@
 **Free alternative to Bloomberg Terminal & CME Reports.**
 
 [![Open Terminal](https://img.shields.io/badge/OPEN-LIVE_TERMINAL-gold?style=for-the-badge&logo=google-chrome&logoColor=black)](https://gold-options-pro.netlify.app/)
-[![YouTube Demo](https://img.shields.io/badge/WATCH-VIDEO_DEMO-red?style=for-the-badge&logo=youtube)](https://youtu.be/ipleIwZWUH4)
+[![YouTube Demo](https://img.shields.io/badge/WATCH-VIDEO_DEMO-red?style=for-the-badge&logo=youtube)](https://youtu.be/Ixx-cPujZGU)
 
 ---
 
@@ -42,7 +42,8 @@ This terminal aggregates real-time data from CME Group to visualize market senti
 
 ## 🚀 How to start / Как начать
 1.  **Open the App:** [Click Here to Launch](https://gold-options-pro.netlify.app/)
-2.  **Watch Guide:** [Video Tutorial](https://youtu.be/ipleIwZWUH4)
+2.  **Watch Guide:** [Video Tutorial (New)](https://youtu.be/Ixx-cPujZGU)
+3.  **Subscribe:** [YouTube Channel @TradeGoldOptions](https://www.youtube.com/@TradeGoldOptions)
 
 ---
 *Disclaimer: Trading involves risk. This tool provides market data visualization only.*
